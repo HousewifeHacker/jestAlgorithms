@@ -1,0 +1,16 @@
+{
+  "name": "jestAlgorithms",
+  "version": "1.0.0",
+  "description": "Test js algorithms with jest",
+  "main": "index.js",
+  "repository": "git@github.com:HousewifeHacker/jestAlgorithms.git",
+  "author": "Jessica Anderson",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "^22.4.3"
+  }
+}
